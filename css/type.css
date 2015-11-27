@@ -216,6 +216,10 @@ small, .milli {
   padding-top: 2.6000rem;
 }
 
+.pad-top-large, .pad-t-l {
+  padding-top: 5.2000rem;
+}
+
 .pad-bottom-double, .pad-b-2 {
   padding-bottom: 2.6000rem;
 }
