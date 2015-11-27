@@ -220,6 +220,26 @@ small, .milli {
   padding-top: 5.2000rem;
 }
 
+.pad-bottom-medium, .pad-b-m {
+  padding-bottom: 4.55rem;
+}
+
+.pad-bottom-small, .pad-b-s {
+  padding-bottom: 3.9rem;
+}
+
+.pad-bottom-large, .pad-b-l {
+  padding-bottom: 5.2000rem;
+}
+
+.pad-top-medium, .pad-t-m {
+  padding-top: 4.55rem;
+}
+
+.pad-top-small, .pad-t-s {
+  padding-top: 3.9rem;
+}
+
 .pad-bottom-double, .pad-b-2 {
   padding-bottom: 2.6000rem;
 }
