@@ -1,20 +1,20 @@
 body:before, body:after {
-    content: "";
-    position: fixed;
-    background: #db0046;
-    left: 0;
-    right: 0;
-    height: 10px;
+  content: "";
+  position: fixed;
+  background: #db0046;
+  left: 0;
+  right: 0;
+  height: 10px;
 }
 body:before {
-    top: 0;
+  top: 0;
 }
 body:after {
-    bottom: 0;
+  bottom: 0;
 }
 body {
-    border-left: 10px solid #db0046;
-    border-right: 10px solid #db0046;
+  border-left: 10px solid #db0046;
+  border-right: 10px solid #db0046;
 }
 
 a:link {
@@ -28,4 +28,9 @@ a:visited{
 
 .bucket-colour-1{
   background-color: #f5f5f5;
+}
+
+.footer-box{
+  color: white;
+  background-color: #db0046;
 }
