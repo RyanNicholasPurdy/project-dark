@@ -88,3 +88,7 @@ body{
 .bucket-box{
   height: 300px;
 }
+
+.bucket-icon{
+  max-width: 300px;
+}
