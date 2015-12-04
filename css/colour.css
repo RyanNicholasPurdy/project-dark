@@ -1,7 +1,7 @@
 body:before, body:after {
   content: "";
   position: fixed;
-  background: #db0046;
+  background: #00f0bb;
   left: 0;
   right: 0;
   height: 10px;
@@ -13,8 +13,8 @@ body:after {
   bottom: 0;
 }
 body {
-  border-left: 10px solid #db0046;
-  border-right: 10px solid #db0046;
+  border-left: 10px solid #00f0bb;
+  border-right: 10px solid #00f0bb;
 }
 
 a:link {
@@ -32,9 +32,13 @@ a:visited{
 
 .footer-box{
   color: white;
-  background-color: #db0046;
+  background-color: #00f0bb;
 }
 
 .socials-text{
   color: white;
+}
+
+.text-grey{
+  color: #6f6f6f;
 }

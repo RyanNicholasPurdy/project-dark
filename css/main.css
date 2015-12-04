@@ -12,7 +12,7 @@ body{
 .nav {
   position: fixed;
   left: -190px;
-  background-color: #db0046;
+  background-color: #00f0bb;
   height: 100%;
   transition: all 250ms;
   width: 200px;
@@ -30,7 +30,7 @@ body{
 .nav a:hover {
   cursor: default;
   background-color: white;
-  color: #db0046;
+  color: #00f0bb;
   width: 100px;
 }
 
@@ -95,7 +95,7 @@ body{
 }
 
 .action-button:hover {
-  background: #db0046;
+  background: #00f0bb;
   color: white;
 }
 
